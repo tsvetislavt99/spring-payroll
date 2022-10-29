@@ -63,4 +63,7 @@ class Employee {
                 + '\'' + '}';
     }
 
+    public void setId(Long id2) {
+    }
+
 }
